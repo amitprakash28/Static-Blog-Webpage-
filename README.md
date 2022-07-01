@@ -8,4 +8,17 @@
 
 <h2> Some glimpse of this Project </h2>
 
+<h4> HERO </h4>
+
+![alt text](https://raw.githubusercontent.com/Apr28/Static-Blog-Webpage-/master/Pics/Hero.png)
+
+<h4> Post Section </h4>
+
+![alt text](https://raw.githubusercontent.com/Apr28/Static-Blog-Webpage-/master/Pics/Recent%20.png)
+
+
+<h4> Footer Section </h4>
+
+![alt text](https://raw.githubusercontent.com/Apr28/Static-Blog-Webpage-/master/Pics/Footer.png)
+
 
